@@ -1,0 +1,1 @@
+plot 'results.dta' using 1:2 title 'insertion sort', 'results.dta' using 1:3 title 'bubble sort'
